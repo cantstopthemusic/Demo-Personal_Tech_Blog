@@ -1,5 +1,5 @@
 ---
-title: format
+title: Markdown format
 ---
 
 主题使用 GitHub 官方语法，样式也是遵循 GitHub 风格，如下：
