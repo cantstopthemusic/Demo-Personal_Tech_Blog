@@ -1,16 +1,20 @@
+---
+title: 首页
+---
+
 [首页](/) | [目录]({{site.baseurl}}) | [资源]({{site.baseurl}}/resources)
 
 ---
 
-##HTML
+## HTML
 
-##CSS
+## CSS
 
-##JavaScript
+## JavaScript
 
-##Node.js
+## Node.js
 
-##React
+## React
 
 {% assign posts_by_year = site.posts | group_by_exp:"post", "post.date | date: '%Y' " %}
 {% for group in posts_by_year %}
